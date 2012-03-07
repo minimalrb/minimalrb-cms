@@ -1,0 +1,3 @@
+[submodule "minimalrb"]
+	path = minimalrb
+	url = git@github.com:KDN/minimalrb.git
